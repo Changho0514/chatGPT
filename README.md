@@ -8,9 +8,12 @@ TODO: 쇼핑몰 홈페이지로 만들기
 - 상세 기능 구현 목록
 1. 게시판
 - 글 등록, 글 검색, 해시태그
+- dummy 데이터 삽입
 
+2 결제
+-
 
 
 # TODO : 프론트와 JSON으로 주고받는 방식. 프론트를 구해야할듯
 
-사용 기술: spring boot, mySql, Querydsl, JPA
+사용 기술: spring boot, mySql, Querydsl, JPA, redis
